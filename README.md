@@ -16,3 +16,11 @@ Go into the Contactor Settings page in the admin modules section and change the 
 Other Notes:
 =========
 Mailing is done using the SMTP settings in your Coldfusion Admin panel.  If this is not setup, emails will not be sent out.
+
+Changelog
+=========
+ v 1.1
+ Added more CSS styling to ensure  better look and feel
+ 
+ v 1.0
+ Initial Module

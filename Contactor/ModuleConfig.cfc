@@ -54,7 +54,7 @@ component hint="Contactor Plugin"{
 			submit : 'SEND',
 			recievedMsg : 'Thank you for your message',
 			notRecievedMsg : 'Sorry but your message could not be sent, try again later',
-			disclaimer: 'Please feel free to get in touch, we value your Contactor'
+			disclaimer: 'Please feel free to get in touch, we value your feedback'
 		};
 
 		// Layout Settings

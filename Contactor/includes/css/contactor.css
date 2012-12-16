@@ -49,7 +49,6 @@ form#contactor-ContactorForm select {
 	border:1px solid #dfdfdf;
 	font-size:1em;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-	margin-bottom:10px;
 }
 
 form#contactor-ContactorForm textarea{
@@ -115,8 +114,20 @@ form#contactor-ContactorForm #contactor-loading {
 .contactor-holder {
 	margin:0 auto;
 	*margin-left:20px;
-	padding-top:20px;	
+	/*padding-top:20px;	*/
+	font-size: 14px;
+	line-height: 14px;
+	
 }	
+
+.contactor-holder > p {
+	line-height: 14px;
+	margin: 0;
+}
+
+.contactor-holder > p > label{
+	padding: 12px 0 0;
+}
 
 /* Submit button */
 form#contactor-ContactorForm .contactor-submit {
